@@ -1,0 +1,22 @@
+loading the Properties files...
+Launching the Browser:chrome
+navigating to Url:https://www.amazon.in/
+waiting process
+window is maximing
+browser is closed
+loading the Properties files...
+Launching the Browser:chrome
+navigating to Url:https://www.amazon.in/
+waiting process
+window is maximing
+browser is closed
+loading the Properties files...
+loading the Properties files...
+Launching the Browser:chrome
+navigating to Url:https://www.amazon.in/
+waiting process
+window is maximing
+browser is closed
+Retrying test amazon with status FAILURE for the 1 time(s).
+Retrying test amazon with status FAILURE for the 2 time(s).
+Retrying test amazon with status FAILURE for the 3 time(s).

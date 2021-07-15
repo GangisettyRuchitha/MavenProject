@@ -1,0 +1,15 @@
+package SuiteB;
+
+import org.testng.annotations.Test;
+
+public class TestB1 {
+  @Test
+  public void f() throws Exception 
+  {
+System.out.println("Starting TestB1");
+	  
+	  Thread.sleep(5000);
+	  
+	  System.out.println("Ending TestB1");
+  }
+}
